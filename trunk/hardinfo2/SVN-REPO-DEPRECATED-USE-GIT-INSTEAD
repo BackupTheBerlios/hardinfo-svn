@@ -1,0 +1,13 @@
+
+As of June 25, 2008, the SVN repository is deprecated, and all development
+is now being tracked with GIT. Source code can be browsed with github, and
+can be cloned using the following command:
+
+    * git clone git://github.com/lpereira/hardinfo.git 
+
+This will create a hardinfo subdirectory. To update the source, issue the
+command
+
+    * git pull 
+
+inside this directory. Optionally, a GIT snapshot is also available. 
